@@ -1,0 +1,60 @@
+body
+{
+    background-image: -webkit-radial-gradient(black, rgb(1, 8, 39), rgb(0, 3, 93), rgb(3, 164, 0));
+}
+#google
+{
+height: 45px;
+width: auto;
+}
+#mobile
+{
+height: 45px;
+width: auto;
+}
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+  box-shadow:5px 5px 5px grey;
+}
+.copy_right_footer {
+  position: fixed;
+  color: white;
+  bottom: 0;
+  width: 100%;
+  background-color:grey;
+  line-height: 3;
+  text-align: center;
+}
+#one
+{
+    height: 200px;
+    width: auto;
+}
+#two
+{
+    height: 200px;
+    width: auto;
+}
+#three
+{
+    height: 200px;
+    width: auto;
+}
+#four
+{
+    height: 200px;
+    width: auto;
+}
+#five
+{
+    height: 200px;
+    width: auto;
+}
+#ao, #bo, #co, #do, #eo
+{
+   font-size: large;
+   color: aliceblue;
+}
